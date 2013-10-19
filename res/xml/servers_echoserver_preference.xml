@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <EditTextPreference android:title="Server Port" android:summary="Where the server hosts" android:key="server_port" android:numeric="integer"/>
+    
+
+</PreferenceScreen>

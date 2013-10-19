@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <EditTextPreference android:title="Server Port" android:key="server_port" android:numeric="integer" android:summary="Where the server is hosted"/>
+    <EditTextPreference android:title="Document Title" android:key="doc_title" android:summary="What the title of the page is"/>
+    <EditTextPreference android:title="Document Body" android:summary="What the page will say" android:key="doc_body"/>
+    
+
+</PreferenceScreen>
